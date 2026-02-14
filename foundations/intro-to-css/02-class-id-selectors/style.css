@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.laze {
+    background-color: #cf00005c;
+    font-family: "Verdana", "DejavVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: hsl(98, 96%, 48%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.tired {
+    font-size: 24px;
+}
